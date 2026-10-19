@@ -3,7 +3,7 @@
 Computational modeling of 2D Kane-Mele topological insulators under uniaxial mechanical strain to evaluate material robustness for defense microelectronics and spintronic applications.
 
 ## Overview
-This repository contains a tight-binding calculation pipeline developed in Python using `PythTB`. The project models spin-orbit coupling (SOC) and evaluates the evolution of the topological band gap ($\Delta E$) under uniaxial lattice strain from 0% to 10%.
+This repository contains a tight binding calculation developed in Python using `PythTB`. The project models spin orbit coupling (SOC) and evaluates the evolution of the topological band gap ($\Delta E$) under uniaxial lattice strain from 0% to 10%.
 
 ## Key Findings
 - **0% Strain Gap:** $\approx 0.520\text{ eV}$ (Inverted gap protected by spin-orbit coupling).
