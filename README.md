@@ -10,6 +10,9 @@ This repository contains a tight binding calculation developed in Python using `
 - **Strain Sweep (0–10%):** The topological band gap remains non-zero across the entire deformation range, demonstrating structural robustness against quantum phase transitions.
 - **Application:** Identifies candidate topological material architectures capable of retaining low-dissipation edge-state transport in high-stress, harsh naval operating environments.
 
+![Topological Strain Analysis](topological_strain_analysis.png)
+![Gap vs Strain Plot](gap_vs_strain_plot.png)
+
 ## Repository Structure
 - `topological_project.py`: Generates comparative band structure plots for 0% vs 5% uniaxial strain.
 - `strain_sweep_project.py`: Conducts a continuous strain sweep (0–10%) and exports quantitative gap data.
